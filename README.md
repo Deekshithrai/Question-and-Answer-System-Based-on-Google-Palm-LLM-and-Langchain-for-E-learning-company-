@@ -5,6 +5,7 @@
 ## Overview
 
 This is an end-to-end LLM project based on Google Palm and Langchain. We are building a Q&A system for an e-learning company called Codebasics (website: [codebasics.io](https://codebasics.io)). Codebasics offers data-related courses and bootcamps, serving thousands of learners who use Discord and email to ask questions. Our system provides a Streamlit-based user interface for students to ask questions and get answers.
+![Screenshot (1)](https://github.com/Deekshithrai/Question-and-Answer-System-Based-on-Google-Palm-LLM-and-Langchain-for-E-learning-company-/assets/144473857/3b2515df-a140-4ce3-8984-238c4262f169)
 
 ## Project Highlights
 
